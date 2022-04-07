@@ -44,7 +44,7 @@
    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" height='48' width='48'/>
    <img src="https://img.icons8.com/color/48/000000/gitlab.png"/>
    <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
-   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>
    
 
    
