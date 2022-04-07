@@ -56,7 +56,7 @@
 ## <img src="https://img.icons8.com/external-wanicon-flat-wanicon/28/000000/external-stats-online-shopping-wanicon-flat-wanicon.png"/> Contributions
 <p align="center">
     <a href="https://github.com/Ashutosh00710/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhunanyan&theme=black-ice&hide_border=true&stroke=0000&background=414141"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhunanyan&theme=github&stroke=0000&background=414141"/>
     </a>
 </p>
 
