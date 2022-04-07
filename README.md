@@ -51,21 +51,24 @@
 </p>
 
 <br/>
+<br/>
 
 ## <img src="https://img.icons8.com/external-wanicon-flat-wanicon/28/000000/external-stats-online-shopping-wanicon-flat-wanicon.png"/> Contributions
-
 <p align="center">
     <a href="https://github.com/dhunanyan/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhunanyan&theme=black-ice&hide_border=true&stroke=0000&background=414141"/>
     </a>
 </p>
 
-## <img src="https://img.icons8.com/stickers/28/000000/combo-chart.png"/> My Github Stats
+<br/>
+<br/>
 
-  <br/>
+## <img src="https://img.icons8.com/stickers/28/000000/combo-chart.png"/> My Github Stats
 <p align="center">
     <a href="https://github.com/dhunanyan/github-readme-stats"><img alt="Davits's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhunanyan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=414141" /></a>
 </p>
+
+<br/>
 <br/>
 
 ## <img src="https://img.icons8.com/color/28/000000/language.png"/> Top Used Languages (in public repos)
@@ -77,25 +80,21 @@
 <br/>
 
 ## <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/28/000000/external-graph-big-data-flaticons-flat-flat-icons.png"/> My Activity Graph
-
-<a href="https://github.com/dhunanyan/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhunanyan&bg_color=414141&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<p align="left">
+   <a href="https://github.com/dhunanyan/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhunanyan&bg_color=414141&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+</p>
 
 <br/>
 <br/>
 
 ## <img src="https://img.icons8.com/color/28/000000/new-contact.png"/> Connect with me:
-
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/dhunanyan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/poprostu_armani/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="mailto:davit.hunanyan@me.com"><img src="https://img.icons8.com/fluency/48/000000/mail.png"/></a>
-<a href="tel:+48507237578"><img src="https://img.icons8.com/color/48/000000/apple-phone.png"/></a>
-   
+   <a href = "https://www.linkedin.com/in/dhunanyan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+   <a href = "https://www.instagram.com/poprostu_armani/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+   <a href="mailto:davit.hunanyan@me.com"><img src="https://img.icons8.com/fluency/48/000000/mail.png"/></a>   
 </p>
 
 ## Views and Followers <img src="https://img.icons8.com/cotton/28/000000/like--v1.png"/>
-
 <a href="https://github.com/dhunanyan/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=dhunanyan">
 </a>
