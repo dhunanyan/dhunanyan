@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I like hot-dog more, than restaurant food**
 
-## <img src="https://img.icons8.com/bubbles/28/000000/settings.png"/> Languages and Tools:
+## <img src="https://img.icons8.com/fluency/28/000000/briefcase-settings.png"/> Languages and Tools:
 
 <p align="left"> 
    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
@@ -53,9 +53,10 @@
 <br/>
 
 ## <img src="https://img.icons8.com/external-wanicon-flat-wanicon/28/000000/external-stats-online-shopping-wanicon-flat-wanicon.png"/> Contributions
+
 <p align="center">
     <a href="https://github.com/dhunanyan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhunanyan&theme=black-ice&hide_border=true&stroke=0000&background=414141"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhunanyan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
