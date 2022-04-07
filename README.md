@@ -77,7 +77,7 @@
 
 <a href = "https://www.linkedin.com/in/dhunanyan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/poprostu_armani/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+<a href="mailto:davit.hunanyan@me.com"><img src="https://img.icons8.com/fluency/48/000000/mail.png"/></a>
 </p>
 
 ## ❤ Views and Followers
@@ -86,6 +86,4 @@
     <img src="https://komarev.com/ghpvc/?username=dhunanyan">
 </a>
 <a href="https://github.com/dhunanyan?tab=followers"><img src="https://img.shields.io/github/followers/dhunanyan?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="mailto:davit.hunanyan@me.com">
-   <img src="https://img.icons8.com/cute-clipart/48/000000/apple-mail.png"/>
-</a>
+
