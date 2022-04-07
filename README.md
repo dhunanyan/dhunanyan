@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **davit.hunanyan@me.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I like hot-dog more, than restaurant food**
 
 ## 🚀 Languages and Tools:
 
