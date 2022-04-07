@@ -99,4 +99,4 @@
     <img src="https://komarev.com/ghpvc/?username=dhunanyan">
 </a>
 <a href="https://github.com/dhunanyan?tab=followers"><img src="https://img.shields.io/github/followers/dhunanyan?label=Followers&style=social" alt="GitHub Badge"></a>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[Ashutosh's github activity graph](https://github.com/ashutosh00710/github-readme-activity-graph)
