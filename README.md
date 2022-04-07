@@ -73,7 +73,7 @@
 
 ## <img src="https://img.icons8.com/color/28/000000/language.png"/> Top Used Languages (in public repos)
 <p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhunanyan&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=414141" /></a>
+  <a href="https://github.com/Ashutosh00710/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhunanyan&theme=github" /></a>
 </p>
   
 <br/>
