@@ -86,3 +86,6 @@
     <img src="https://komarev.com/ghpvc/?username=dhunanyan">
 </a>
 <a href="https://github.com/dhunanyan?tab=followers"><img src="https://img.shields.io/github/followers/dhunanyan?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="mailto:davit.hunanyan@me.com">
+   <img src="https://img.icons8.com/cute-clipart/48/000000/apple-mail.png"/>
+</a>
