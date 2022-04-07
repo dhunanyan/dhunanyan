@@ -23,9 +23,10 @@
    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-   <img src="https://img.icons8.com/dusk/64/000000/babel.png"/ height='48' width='48'>
+   <img src="https://img.icons8.com/dusk/64/000000/babel.png" height='48' width='48'/>
    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
    <img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/>
    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
    <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
@@ -39,6 +40,12 @@
    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
    <img src="https://img.icons8.com/fluency/48/000000/figma.png"/>
    <img src="https://img.icons8.com/fluency/48/000000/gimp.png"/>
+   <img src="https://img.icons8.com/color/48/000000/git.png"/>
+   <img src="https://img.icons8.com/ios-filled/50/000000/github.png" height='48' width='48'/>
+   <img src="https://img.icons8.com/color/48/000000/gitlab.png"/>
+   <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"/>
+   
 
    
 </p>
