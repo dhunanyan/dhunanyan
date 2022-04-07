@@ -81,7 +81,7 @@
 
 ## <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/28/000000/external-graph-big-data-flaticons-flat-flat-icons.png"/> My Activity Graph
 <p align="left">
-   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhunanyan&bg_color=414141&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhunanyan&theme=github" /></a>
 </p>
 
 <br/>
