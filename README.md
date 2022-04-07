@@ -76,6 +76,6 @@
 ## ❤ Views and Followers
 
 <a href="https://github.com/dhunanyan/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=dhunanyan">
 </a>
-<a href="https://github.com/dhunanyan?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/dhunanyan?tab=followers"><img src="https://img.shields.io/github/followers/dhunanyan?label=Followers&style=social" alt="GitHub Badge"></a>
