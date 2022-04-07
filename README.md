@@ -20,23 +20,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAADDUlEQVQ4jXVTW0hUURTd9zlz586ZGV+Tep2mB1Tag6CylyDS40eKIIQwEHsYGEZZUVEJQ4iUmdKPguZPUUh96E8RlZiSRRZKQllRUqjJoM54596577mnj1LUbP/tBWuds/faC2BBlYa6lh2+0ZW1EC+u7gwWV3cGF+LE3KaydaiOZdn9GCc4jMl3U5Hx8wAAqSnpt2wbb6EoSjEMvaPhWM6FGQ4552UfQzMHhyfC2/qGx5armjbg92c98fuznmi63h97HVs+PjK5nWHYotJQl+8fAQs5cmiWDj86uyPyMlRg6QmlBwCTJGBSNZWe5ubN5t3LW6dohpkgWOfqGR49K6CaI5ahJx1r6C3kUNKqZK+nXJHlMQCAjLTMloo7n5pUKfo1YRpew9DGZngUAEBZbd/G9My0S8jjy2dodiXv4vfFZbknYUOvjeFbImGYiEclTge3DiH3WpZ3Jufkl/7of9ocJsobB4p8Pl+1omn3aZJYqyoa5/WiDHnqS57JBPbYGLDDGnnBJ2f3xmLiL4eTU8G2PzpdzsNiNHqF9CBUFYlMVtw+mn0tJsbbBEEoFKelOpMJ7AkGMttXBDI7dDqwW5qO1gmCUChLclvD8exr4qR4yo08VSTGgCmbmGfnrMd4MfRP2QQQBGBMVDR9OIi8nhpV1R5QFJGjKhqHkCdDiX7O0+nAbrAscMD4vBFwwh5yuRzFkhS/RAAAnKh/v96X6j3tQahEluPvGNaxUlHkZxjjQQAAgiI3uJz8XtPQv/Nu95bpmHhPjEq375zZNDj79UPV3YGlQeH51GT4HIeSViV5PeXqXxtdbrcQEWNNqhT9mprirx8dHt11P1QwOu8OWAedRdP0dGvlzscA8Lissa8/zZvaAgAwPvGrrOVkbjcAwNW2H1Us6xQAYL4AGTeGLMNaUlLzNkU1fkocwxfYQNgkYHCxfH5R6OEbjg0iQ7eWYEP7MrvouZutbP1cy7LMgYRtuSgg+iYi4T9hSs64icHOJSlKNTWzvf74mov/tefIre7AYnEuuf5q6WJx/g2MPFqfuE3zkwAAAABJRU5ErkJggg==" alt="react" width="40" height="40"/>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
