@@ -62,8 +62,12 @@
 ## 📊 My Github Stats
 
   <br/>
+<p align="center">
     <a href="https://github.com/dhunanyan/github-readme-stats"><img alt="Davit Hunanyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhunanyan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=414141" /></a>
+</p>
+<p align="center">
   <a href="https://github.com/dhunanyan/github-readme-stats"><img alt="Davit Hunanyan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhunanyan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=414141" /></a>
+</p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
