@@ -60,7 +60,7 @@
     </a>
 </p>
 
-## <img src="https://img.icons8.com/cotton/28/000000/combo-chart--v3.png"/> My Github Stats
+## <img src="https://img.icons8.com/stickers/28/000000/combo-chart.png"/> My Github Stats
 
   <br/>
 <p align="center">
@@ -68,7 +68,7 @@
 </p>
 <br/>
 
-## <img src="https://img.icons8.com/external-xnimrodx-blue-xnimrodx/28/000000/external-language-translation-and-language-xnimrodx-blue-xnimrodx.png"/> Top Used Languages (in public repos)
+## <img src="https://img.icons8.com/color/28/000000/language.png"/> Top Used Languages (in public repos)
 <p align="center">
   <a href="https://github.com/dhunanyan/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhunanyan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=414141" /></a>
 </p>
