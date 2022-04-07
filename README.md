@@ -1,4 +1,4 @@
-<a href="#" align="center"><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/000000/external-programmer-professions-flaticons-flat-flat-icons-2.png"/></a>
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/000000/external-programmer-professions-flaticons-flat-flat-icons-2.png"  align="center"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Davit</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
