@@ -49,9 +49,9 @@
 
 <br/>
 
-<p align="center" padding='30' background='000' >
+<p align="center">
     <a href="https://github.com/dhunanyan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Davit Hunanyan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhunanyan&theme=black-ice&hide_border=true&stroke=0000&background=303030"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Davit Hunanyan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhunanyan&theme=black-ice&hide_border=true&stroke=0000&background=525252"/>
     </a>
 </p>
 
