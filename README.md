@@ -55,7 +55,7 @@
 
 ## <img src="https://img.icons8.com/external-wanicon-flat-wanicon/28/000000/external-stats-online-shopping-wanicon-flat-wanicon.png"/> Contributions
 <p align="center">
-    <a href="https://github.com/dhunanyan/github-readme-streak-stats">
+    <a href="https://github.com/Ashutosh00710/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhunanyan&theme=black-ice&hide_border=true&stroke=0000&background=414141"/>
     </a>
 </p>
@@ -65,7 +65,7 @@
 
 ## <img src="https://img.icons8.com/stickers/28/000000/combo-chart.png"/> My Github Stats
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Davits's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhunanyan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=414141" /></a>
+    <a href="https://github.com/Ashutosh00710/github-readme-stats"><img alt="Davits's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhunanyan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=414141" /></a>
 </p>
 
 <br/>
@@ -73,7 +73,7 @@
 
 ## <img src="https://img.icons8.com/color/28/000000/language.png"/> Top Used Languages (in public repos)
 <p align="center">
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhunanyan&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=414141" /></a>
+  <a href="https://github.com/Ashutosh00710/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhunanyan&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=414141" /></a>
 </p>
   
 <br/>
@@ -81,7 +81,7 @@
 
 ## <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/28/000000/external-graph-big-data-flaticons-flat-flat-icons.png"/> My Activity Graph
 <p align="left">
-   <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhunanyan&bg_color=414141&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhunanyan&bg_color=414141&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </p>
 
 <br/>
