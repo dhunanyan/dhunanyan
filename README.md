@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Davit</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Armenia.</h3>
+<h3 align="center">I'm a student of Computer Sciense and Inteligent Systems with great passion for digital.</h3>
 
 ## <img src="https://img.icons8.com/stickers/28/000000/user.png"/> About Me
 
@@ -64,7 +64,7 @@
 
   <br/>
 <p align="center">
-    <a href="https://github.com/dhunanyan/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhunanyan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=414141" /></a>
+    <a href="https://github.com/dhunanyan/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhunanyan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/dhunanyan/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhunanyan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=414141" /></a>
