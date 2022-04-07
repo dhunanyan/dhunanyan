@@ -74,7 +74,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/dhunanyan/github-readme-activity-graph"><img alt="Davit Hunanyan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhunanyan&bg_color=414141&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/dhunanyan/github-readme-activity-graph"><img alt="My Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dhunanyan&bg_color=414141&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
