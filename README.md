@@ -6,7 +6,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Davit</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Armenia.</h3>
 
-## 🙋‍♂️ About Me
+## <img src="https://img.icons8.com/stickers/28/000000/user.png"/> About Me
 
 - 🔭 I’m currently working on **My first fullstack app!**
 
@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I like hot-dog more, than restaurant food**
 
-## 🚀 Languages and Tools:
+## <img src="https://img.icons8.com/bubbles/28/000000/settings.png"/> Languages and Tools:
 
 <p align="left"> 
    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
@@ -52,6 +52,7 @@
 
 <br/>
 
+## <img src="https://img.icons8.com/external-wanicon-flat-wanicon/28/000000/external-stats-online-shopping-wanicon-flat-wanicon.png"/> Contributions
 <p align="center">
     <a href="https://github.com/dhunanyan/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Davit Hunanyan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhunanyan&theme=black-ice&hide_border=true&stroke=0000&background=414141"/>
@@ -83,7 +84,7 @@
 <a href="mailto:davit.hunanyan@me.com"><img src="https://img.icons8.com/fluency/48/000000/mail.png"/></a>
 </p>
 
-## ❤ Views and Followers
+## <img src="https://img.icons8.com/cotton/28/000000/like--v1.png"/> Views and Followers
 
 <a href="https://github.com/dhunanyan/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=dhunanyan">
