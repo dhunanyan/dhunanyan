@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/000000/external-programmer-professions-flaticons-flat-flat-icons-2.png"/>
+   <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/100/000000/external-programmer-professions-flaticons-flat-flat-icons-2.png" width='200px' height='200px'/>
 </p>   
 
 
