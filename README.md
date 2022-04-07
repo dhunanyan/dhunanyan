@@ -82,16 +82,17 @@
 <br/>
 <br/>
 
-## Connect with me:
+## <img src="https://img.icons8.com/color/28/000000/new-contact.png"/> Connect with me:
 
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/dhunanyan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/poprostu_armani/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="mailto:davit.hunanyan@me.com"><img src="https://img.icons8.com/fluency/48/000000/mail.png"/></a>
+<a href='tel:+48507237578'><img src="https://img.icons8.com/stickers/28/000000/apple-phone.png"/></a>
 </p>
 
-## <img src="https://img.icons8.com/cotton/28/000000/like--v1.png"/> Views and Followers
+## Views and Followers <img src="https://img.icons8.com/cotton/28/000000/like--v1.png"/>
 
 <a href="https://github.com/dhunanyan/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=dhunanyan">
