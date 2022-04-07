@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://www.flaticon.com/free-icons/programmer" title="programmer icons">Programmer icons created by Freepik - Flaticon</a>
+   <img src='https://www.flaticon.com/free-icons/programmer'/>
 </p>   
 
 
