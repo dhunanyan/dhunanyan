@@ -55,8 +55,8 @@
 
 ## <img src="https://img.icons8.com/external-wanicon-flat-wanicon/28/000000/external-stats-online-shopping-wanicon-flat-wanicon.png"/> Contributions
 <p align="center">
-    <a href="https://github.com/Ashutosh00710/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhunanyan&theme=blacked_ice&stroke=0000&background=414141"/>
+    <a href="https://github.com/dhunanyan/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="dhunanyan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhunanyan&theme=black-ice&stroke=0000&background=293036"/>
     </a>
 </p>
 
@@ -65,7 +65,7 @@
 
 ## <img src="https://img.icons8.com/stickers/28/000000/combo-chart.png"/> My Github Stats
 <p align="center">
-    <a href="https://github.com/Ashutosh00710/github-readme-stats"><img alt="Davits's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhunanyan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=414141" /></a>
+    <a href="https://github.com/Ashutosh00710/github-readme-stats"><img alt="Davits's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhunanyan&show_icons=true&count_private=true&theme=react&bg_color=293036" /></a>
 </p>
 
 <br/>
