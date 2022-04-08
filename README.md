@@ -4,7 +4,7 @@
 
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Davit</h1>
-<h3 align="center">I'm a student of Computer Sciense and Inteligent Systems with great passion for digital.</h3>
+<h3 align="center">I'm a student of Computer Sciense and Inteligent Systems in AGH with great passion for digital.</h3>
 
 ## <img src="https://img.icons8.com/stickers/28/000000/user.png"/> About Me
 
