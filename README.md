@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **My first fullstack app!**
 
-- 🌱 I’m currently learning **React and Nodejs.**
+- 🌱 I’m currently learning **React, TypeScript and Nodejs.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
