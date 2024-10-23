@@ -90,7 +90,6 @@
 ## <img src="https://img.icons8.com/color/28/000000/new-contact.png"/> Contact with me:
 <p align="left">
    <a href = "https://www.linkedin.com/in/dhunanyan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-   <a href = "https://www.instagram.com/poprostu_armani/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
    <a href="mailto:davit.hunanyan@me.com"><img src="https://img.icons8.com/fluency/48/000000/mail.png"/></a>   
 </p>
 
