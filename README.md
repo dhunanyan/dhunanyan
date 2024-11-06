@@ -46,7 +46,7 @@ Here are some featured projects that showcase my skills in web development and m
   <a href="https://github.com/dhunanyan/scss-to-css-converter" target="_blank">
     <img alt="SCSS to CSS Converter" src="https://github-readme-stats.vercel.app/api/pin/?username=dhunanyan&repo=scss-to-css-converter&border_color=64ffda&bg_color=0a192f&text_color=8892b0&icon_color=64ffda&title_color=ccd6f6&ring_color=89d0c2&show_owner=true&description_lines_count=3" width="49%"/>
   </a>
-  <a href="https://github.com/dhunanyan/weather-app" target="_blank">
+  <a href="https://github.com/dhunanyan/ios-weather-clone" target="_blank">
     <img alt="Weather App" src="https://github-readme-stats.vercel.app/api/pin/?username=dhunanyan&repo=weather-app&border_color=64ffda&bg_color=0a192f&text_color=8892b0&icon_color=64ffda&title_color=ccd6f6&ring_color=89d0c2&show_owner=true&description_lines_count=3" width="49%"/>
   </a>
 </div>
